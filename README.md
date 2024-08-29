@@ -2,10 +2,10 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [About John Mazel](#about-john-mazel)
 - [Website Sections](#website-sections)
-- [About John Percival L. Mazel](#about-john-percival-l-mazel)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Softwares Used](#software-used)
 - [Contact](#contact)
 
 ## Overview
@@ -44,7 +44,7 @@ This is the portfolio website for John Percival L. Mazel, a talented photographe
 - Resources section to access the digital products Mazel offers.
 - Contact form for inquiries and collaborations.
 
-## Softwares and Resources Used
+## Softwares Used
 - Languages: HTML and CSS
 - Framework: Bootstrap
 - Design Tool: Figma
