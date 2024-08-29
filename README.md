@@ -5,7 +5,7 @@
 - [About John Mazel](#about-john-mazel)
 - [Website Sections](#website-sections)
 - [Features](#features)
-- [Softwares Used](#software-used)
+- [Softwares Used](#softwares-used)
 - [Contact](#contact)
 
 ## Overview
