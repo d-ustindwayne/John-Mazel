@@ -1,0 +1,37 @@
+/* DESKTOP ONLY OVERLAY */
+
+.desktop-only-overlay{
+display: none;
+}
+
+@media (max-width: 1024px), (hover: none) and (pointer: coarse){
+  .desktop-only-overlay{
+  display: flex;
+  position: fixed;
+  inset: 0;
+  z-index: 100000;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  text-align: center;
+  background-color: #181818;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  }
+
+  .desktop-only-overlay h2{
+  color: #C0875E;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 12px;
+  }
+
+  .desktop-only-overlay p{
+  max-width: 420px;
+  margin: 0 auto;
+  }
+
+  body{
+  overflow: hidden;
+  }
+}
